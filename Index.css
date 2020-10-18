@@ -14,7 +14,9 @@
   }
   
   .home-main-section .image {
-    background-image: url(images/profile.png);
+    background-image: url(IMG/20201002/194709.jpg);
+
+
     flex-grow: 1;
     max-height: 100vh;
     min-width: 40vw;
