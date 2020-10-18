@@ -9,7 +9,7 @@ body {
   margin: 0;
   background-color: rgba(46, 56, 112, 0.596);
   font-family: Poppins, sans-serif;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   color: black;
   min-height: 100vh;
 }
@@ -27,7 +27,7 @@ img{
 .brand-logo {
   display: flex;
   align-items: center;
-  font-size: 1.26em;
+  font-size: 1.27em;
   color: inherit;
   text-decoration: none;
 }
@@ -96,8 +96,8 @@ img{
 .btn {
     color: black;
     background-color: #1762A7;
-    padding: .75rem 1.6rem;
-    border-radius: .6rem;
+    padding: .75rem 1.7rem;
+    border-radius: 1.6rem;
     text-decoration: none;
     font-size: .10rem;
     outline: none;
@@ -107,9 +107,9 @@ img{
   }
   
   .btn:hover {
-    background-color: #2180d8;
+    background-color: #2180d9;
   }
   
   .btn:focus {
-    background-color: #2796ff;
+    background-color: #2797ff;
   }
