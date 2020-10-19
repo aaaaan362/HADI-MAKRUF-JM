@@ -1,3 +1,4 @@
+$dompdf
 .home-main-section {
     display: flex;
     align-items: stretch;
