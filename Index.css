@@ -1,4 +1,3 @@
-$dompdf->(laporan_siswa.pdf');
 .home-main-section {
     display: flex;
     align-items: stretch;
